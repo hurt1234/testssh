@@ -7,3 +7,7 @@
 7.恢复  git reset --hard Head~0
 8.恢复 git reset --hard 版本号
 9.看之前的版本号 git reflog
+10.创建新的分支dev  git branch dev
+11.查看分支 git branch
+12.切换分支 git checkout dev
+13.合并分支  git merge dev

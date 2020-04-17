@@ -5,3 +5,5 @@
 5.查看日志 git log
 6.一行显示  git  log  --oneline
 7.恢复  git reset --hard Head~0
+8.恢复 git reset --hard 版本号
+9.看之前的版本号 git reflog

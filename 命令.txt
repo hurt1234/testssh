@@ -1,0 +1,7 @@
+1.初始化 git init
+2.保存大门 git add ./
+3.保存仓库 git commit -m "描述"
+4.一次行提交  git commit --all -m "描述"
+5.查看日志 git log
+6.一行显示  git  log  --oneline
+7.恢复  git reset --hard Head~0

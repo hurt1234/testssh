@@ -11,3 +11,4 @@
 11.查看分支 git branch
 12.切换分支 git checkout dev
 13.合并分支  git merge dev
+14.删除分支 git branch -d dev

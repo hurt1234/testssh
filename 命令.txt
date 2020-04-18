@@ -14,4 +14,4 @@
 14.删除分支 git branch -d dev
 15.上传github git push 地址 master
 16.下载github git pull 地址 master
-17.生成秘钥 ssh-keygen -t rsa -C "2269267839@qq.com"
+17.生成秘钥 ssh-keygen -t rsa -C "邮箱"
